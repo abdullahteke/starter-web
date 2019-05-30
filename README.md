@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ### Bu bir denemedir
 
 Modifeadfasf asfsaf asfas aaf
+Adding new lectures
